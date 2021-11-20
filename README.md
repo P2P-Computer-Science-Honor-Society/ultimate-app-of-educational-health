@@ -5,4 +5,4 @@ Hello World! :D - JP
 
 0rfq08yerfq0e8rq0grw0q8egr - Mateo
 
-Are we going to be using Java, Kotlin, or something else entirely? -Hayden Rasmussen
+Time to lean Javascript and React Native! -Hayden Rasmussen
