@@ -6,3 +6,6 @@ Hello World! :D - JP
 0rfq08yerfq0e8rq0grw0q8egr - Mateo
 
 Time to lean Javascript and React Native! -Hayden Rasmussen
+
+Is anybody going to upload the start of the project so we can actually start working on it? -Hayden Rasmussen
+
